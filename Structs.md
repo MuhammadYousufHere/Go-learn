@@ -14,3 +14,6 @@ or
 p2 := new(Person)
 or
 p3 := Person(name:"Ali",age:19,address:"karachi")
+
+can access the properties using dot notation
+add = p3.name
